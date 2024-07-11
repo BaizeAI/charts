@@ -3,12 +3,12 @@ entries:
   kube-snapshot:
   - apiVersion: v2
     appVersion: v0.1.1
-    created: "2024-07-11T10:52:44.979319018Z"
+    created: "2024-07-11T14:44:39.580344588Z"
     description: A Helm chart for Kubernetes
-    digest: a23618086be90b80cb88e5f0cc675d667c55f598fe715d4e02d122e6181f6d24
+    digest: bf6c782823b25f5d3bb36e8c62527eac3f81d8e1ed160049c22345edd278f3e6
     name: kube-snapshot
     type: application
     urls:
     - https://BaizeAI.github.io/charts/kube-snapshot-0.1.1.tgz
     version: 0.1.1
-generated: "2024-07-11T10:52:44.978786972Z"
+generated: "2024-07-11T14:44:39.579824762Z"

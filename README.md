@@ -1,7 +1,7 @@
 # charts
 [![LICENSE](https://img.shields.io/github/license/baizeai/charts.svg?style=flat-square)](/LICENSE)
 
-The chart repo for holding KubeVela's helm charts.
+The chart repo for holding BaizeAI's helm charts.
 
 ## Usage
 ```shell
